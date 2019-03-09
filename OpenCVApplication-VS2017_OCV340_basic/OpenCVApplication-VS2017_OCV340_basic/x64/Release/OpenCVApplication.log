@@ -1,0 +1,17 @@
+﻿  OpenCVApplication.cpp
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(p)\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(105): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(p)\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(301): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(p)\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(338): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(p)\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(339): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(p)\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(403): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(p)\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(450): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\danb\desktop\utcn\semestrul ii - dan\pi(p)\opencvapplication-vs2017_ocv340_basic\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(590): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  3 of 634 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenCVApplication.vcxproj -> C:\Users\DanB\Desktop\UTCN\Semestrul II - Dan\PI(P)\OpenCVApplication-VS2017_OCV340_basic\OpenCVApplication-VS2017_OCV340_basic\x64\Release\OpenCVApplication.exe
+  OpenCV\dll\Release\opencv_ffmpeg340_64.dll
+  OpenCV\dll\Release\opencv_world340.dll
+          2 file(s) copied.
